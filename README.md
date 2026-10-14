@@ -8,6 +8,12 @@ Previously **Gartner** · **M.Tech, Data Science, IIT Hyderabad** · Delhi NCR, 
 
 [LinkedIn](https://www.linkedin.com/in/ashishanand7/) · [Work GitHub](https://github.com/ashish-futurepath)
 
+## Work account activity
+
+[![Work account contribution graph: 1,135 contributions over the preceding year, captured October 14, 2026](assets/work-account-activity-2026-10-14.jpg)](https://github.com/ashish-futurepath)
+
+Contribution activity from [ashish-futurepath](https://github.com/ashish-futurepath). Static snapshot captured October 14, 2026.
+
 ## Selected work
 
 ### [inspect-rca-eval](https://github.com/ashishanand7/inspect-rca-eval) · Agent evaluation
